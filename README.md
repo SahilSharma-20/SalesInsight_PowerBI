@@ -1,5 +1,5 @@
 # SalesInsight_PowerBI
-[DashBoard]![![Screenshot (1140)](https://user-images.githubusercontent.com/75215825/192689692-320ad424-dbbb-4fc4-9235-3df5b6cedce2.png))
+[DashBoard]![Screenshot (1140)](https://user-images.githubusercontent.com/75215825/192689692-320ad424-dbbb-4fc4-9235-3df5b6cedce2.png)
 ## Data Analysis Using SQL
  1) Show all customer records
     SELECT * FROM customers;
